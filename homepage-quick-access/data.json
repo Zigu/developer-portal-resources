@@ -1,0 +1,101 @@
+[
+   {
+      "title": "ORGANIZATION",
+      "isExpanded": false,
+      "links": [
+         {
+            "iconUrl": "/icons/icons8/google-calendar.svg",
+            "label": "Calendar",
+            "url": "https://calendar.google.com/"
+         },
+         {
+            "iconUrl": "/icons/icons8/google-mail.svg",
+            "label": "Mail",
+            "url": "https://mail.google.com/"
+         },
+         {
+            "iconUrl": "/icons/icons8/miro.svg",
+            "label": "miro",
+            "url": "https://miro.com/"
+         }
+      ]
+   },
+   {
+      "title": "DEVELOPMENT",
+      "isExpanded": true,
+      "links": [
+         {
+            "iconUrl": "widget:addCircleOutline",
+            "label": "Create component",
+            "url": "/create"
+         },
+         {
+            "iconUrl": "widget:gitlab",
+            "label": "Gitlab",
+            "url": "https://gitlab.com/Zigulein"
+         },
+         {
+            "iconUrl": "widget:github",
+            "label": "Github",
+            "url": "https://github.com/zigu"
+         },
+         {
+            "iconUrl": "/icons/icons8/docker.svg",
+            "label": "Rancher Desktop",
+            "url": "https://rancherdesktop.io/"
+         },
+         {
+            "iconUrl": "widget:viewList",
+            "label": "Browse catalog",
+            "url": "/catalog"
+         },
+         {
+            "iconUrl": "widget:radar",
+            "label": "Tech-Radar",
+            "url": "/tech-radar"
+         }
+      ]
+   },
+   {
+      "title": "CI/CD",
+      "isExpanded": false,
+      "links": [
+         {
+            "iconUrl": "/icons/argo-icon-color.svg",
+            "label": "ArgoCD",
+            "url": ""
+         },
+         {
+            "iconUrl": "/icons/jenkins.svg",
+            "label": "Jenkins",
+            "url": ""
+         },
+         {
+            "iconUrl": "/icons/sonarqube.svg",
+            "label": "SonarQube",
+            "url": ""
+         },
+         {
+            "iconUrl": "/icons/jfrog.svg",
+            "label": "Artifactory",
+            "url": ""
+         }
+      ]
+   },
+   {
+      "title": "MONITORING",
+      "onFeatureFlag": "homepage-quickaccess-monitoring",
+      "links": [
+         {
+            "iconUrl": "/icons/icons8/grafana.svg",
+            "label": "Grafana",
+            "url": ""
+         },
+         {
+            "iconUrl": "/icons/icons8/prometheus.svg",
+            "label": "Prometheus",
+            "url": ""
+         }
+      ]
+   }
+]

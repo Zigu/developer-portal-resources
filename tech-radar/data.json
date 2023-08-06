@@ -1,0 +1,373 @@
+{
+   "entries": [
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://docker.com/", "title": "Learn more" } ],
+         "key": "docker",
+         "id": "docker",
+         "title": "Docker",
+         "quadrant": "platforms",
+         "description":
+         "Develop faster. Run anywhere."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://kubernetes.io/", "title": "Learn more" } ],
+         "key": "kubernetes",
+         "id": "kubernetes",
+         "title": "Kubernetes",
+         "quadrant": "platforms",
+         "description":
+         "Open-source system for automating deployment, scaling, and management of containerized applications."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://docs.gitlab.com/ee/ci/", "title": "Learn more" } ],
+         "key": "gitlab-ci",
+         "id": "gitlab-ci",
+         "title": "Gitlab CI/CD",
+         "quadrant": "platforms",
+         "description": "GitLab CI/CD is a tool for software development using the continuous methodologies: Continuous Integration, Continuous Delivery, Continuous Deployment."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "assess",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://cloud.google.com/functions", "title": "Learn more" } ],
+         "key": "google_cloud_functions",
+         "id": "google_cloud_functions",
+         "title": "Google Cloud Functions",
+         "quadrant": "platforms",
+         "description": "Run your code in the cloud with no servers or containers to manage with our scalable, pay-as-you-go functions as a service (FaaS) product."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "assess",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://opentelemetry.io", "title": "Learn more" } ],
+         "key": "open_telemetry",
+         "id": "open_telemetry",
+         "title": "Open Telemetry",
+         "quadrant": "platforms",
+         "description": "High-quality, ubiquitous, and portable telemetry to enable effective observability."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 1,
+               "ringId": "assess",
+               "date": "2023-02-09"
+            }
+         ],
+         "links": [ { "url": "https://openai.com/blog/chatgpt/", "title": "Learn more" } ],
+         "key": "chatgpt",
+         "id": "chatgpt",
+         "title": "ChatGPT",
+         "quadrant": "platforms",
+         "description": "Trained model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "hold",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://jenkins.io", "title": "Learn more" } ],
+         "key": "jenkins-ci",
+         "id": "jenkins-ci",
+         "title": "Jenkins CI/CD",
+         "quadrant": "platforms",
+         "description": "An open source automation server which enables developers around the world to reliably build, test, and deploy their software."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01",
+               "description": "python packaging and dependency management made easy"
+            }
+         ],
+         "links": [ { "url": "https://python-poetry.org/", "title": "Learn more" } ],
+         "key": "python-poetry",
+         "id": "python-poetry",
+         "title": "Poetry",
+         "quadrant": "languages_frameworks",
+         "description":
+         "python packaging and dependency management made easy\n\nPoetry comes with all the tools you might need to manage your projects in a deterministic way.\n\nEasily build and package your projects with a single command."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01",
+               "description": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications"
+            }
+         ],
+         "links": [ { "url": "https://spring.io/projects/spring-framework", "title": "Learn more" } ],
+         "key": "spring-framework",
+         "id": "spring-framework",
+         "title": "Spring Framework",
+         "quadrant": "languages_frameworks",
+         "description":
+         "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01",
+               "description": "Python is a programming language that lets you work quickly\nand integrate systems more effectively"
+            }
+         ],
+         "links": [ { "url": "https://python.org", "title": "Learn more" } ],
+         "key": "python",
+         "id": "python",
+         "title": "Python",
+         "quadrant": "languages_frameworks",
+         "description":
+         "Python is a programming language that lets you work quickly\nand integrate systems more effectively."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 1,
+               "ringId": "assess",
+               "date": "2023-02-09"
+            }
+         ],
+         "links": [ { "url": "https://tox.wiki/en/latest/index.html", "title": "Learn more" } ],
+         "key": "tox_automation_project",
+         "id": "tox_automation_project",
+         "title": "tox",
+         "quadrant": "languages_frameworks",
+         "description":
+         "For running tests as regular we already got frameworks like pytest which work perfectly fine. The reason tox is interesting is that it creates temporary environments to run tests in them. This allows to not only test against the currently installed Python version, but to multiple ones as specified. That's particularly helpful for developing libraries which got more than a single set of interpreter+dependency combinations to support.\n\n (Recommended by IA)"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://grafana.com", "title": "Learn more" } ],
+         "key": "grafana",
+         "id": "grafana",
+         "title": "Grafana",
+         "quadrant": "tools",
+         "description": "Operational dashboards for your data here, there, or anywhere"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://zabbix.com", "title": "Learn more" } ],
+         "key": "zabbix",
+         "id": "zabbix",
+         "title": "Zabbix",
+         "quadrant": "tools",
+         "description": "Get a single pane of glass view of your whole IT infrastructure stack"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://www.ansible.com/", "title": "Learn more" } ],
+         "key": "ansible",
+         "id": "ansible",
+         "title": "Ansible",
+         "quadrant": "tools",
+         "description": "Automation for everyone. Manage on-prem resources easily using the IaC principle."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://helm.sh", "title": "Learn more" } ],
+         "key": "helm",
+         "id": "helm",
+         "title": "Helm",
+         "quadrant": "tools",
+         "description": "Helm is a package manager for Kubernetes."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://argo-cd.readthedocs.io/", "title": "Learn more" } ],
+         "key": "argocd",
+         "id": "argocd",
+         "title": "ArgoCD",
+         "quadrant": "tools",
+         "description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://prometheus.io", "title": "Learn more" } ],
+         "key": "prometheus",
+         "id": "prometheus",
+         "title": "Prometheus",
+         "quadrant": "tools",
+         "description": "Power your metrics and alerting with the leading\nopen-source monitoring solution"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://en.wikipedia.org/wiki/Infrastructure_as_code", "title": "Learn more" } ],
+         "key": "infrastructure_as_code",
+         "id": "infrastructure_as_code",
+         "title": "Infrastructure as Code (IaC)",
+         "quadrant": "techniques",
+         "description": "Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://www.weave.works/technologies/gitops/", "title": "Learn more" } ],
+         "key": "gitops",
+         "id": "gitops",
+         "title": "GitOps",
+         "quadrant": "techniques",
+         "description": "GitOps is a modern way to manage cloud-native systems that are powered by Kubernetes."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "trial",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://12factor.net/", "title": "Learn more" } ],
+         "key": "12-factor",
+         "id": "12-factor",
+         "title": "12-Factor App",
+         "quadrant": "techniques",
+         "description": "The twelve-factor app is a methodology for building software-as-a-service apps"
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "assess",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://alistair.cockburn.us/hexagonal-architecture/", "title": "Learn more" } ],
+         "key": "hexagonal_architecture",
+         "id": "hexagonal_architecture",
+         "title": "Hexagonal Architecture",
+         "quadrant": "techniques",
+         "description": "Create your application to work without either a UI or a database so you can run automated regression-tests against the application, work when the database becomes unavailable, and link applications together without any user involvement."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "assess",
+               "date": "2023-02-01"
+            }
+         ],
+         "links": [ { "url": "https://patterns.innersourcecommons.org/", "title": "Learn more" } ],
+         "key": "inner-source-patterns",
+         "id": "inner-source-patterns",
+         "title": "InnerSource Patterns",
+         "quadrant": "techniques",
+         "description":
+         "InnerSource is a software development strategy rapidly spreading throughout large corporations—and it is also more. At its essence, InnerSource enables software developers to contribute to the efforts of other teams, fostering transparency and openness to contributions from others. But beyond that, InnerSource represents a collaborative and empowering way of involving employees in making and implementing decisions throughout the corporation. It embodies a philosophy of human relations, an approach to rewards and motivations, and a loose, adaptable set of tools and practices."
+      },
+      {
+         "timeline": [
+            {
+               "moved": 0,
+               "ringId": "adopt",
+               "date": "2023-03-28"
+            }
+         ],
+         "links": [ { "url": "https://kafka.apache.org/", "title": "Learn more" } ],
+         "key": "apache-kafka",
+         "id": "apache-kafka",
+         "title": "Apache Kafka",
+         "quadrant": "tools",
+         "description":
+         "Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. "
+      }
+   ],
+   "quadrants": [
+      { "id": "techniques", "name": "Techniques" },
+      { "id": "tools", "name": "Tools" },
+      { "id": "platforms", "name": "Platforms" },
+      { "id": "languages_frameworks", "name": "Languages & Frameworks" }
+   ],
+   "rings": [
+      { "id": "adopt", "name": "ADOPT", "color": "#93c47d" },
+      { "id": "trial", "name": "TRIAL", "color": "#93d2c2" },
+      { "id": "assess", "name": "ASSESS", "color": "#fbdb84" },
+      { "id": "hold", "name": "HOLD", "color": "#efafa9" }
+
+   ]
+}
