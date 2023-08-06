@@ -63,22 +63,22 @@
          {
             "iconUrl": "/icons/argo-icon-color.svg",
             "label": "ArgoCD",
-            "url": ""
+            "url": "https://argocd.dev.pincservices.de"
          },
          {
             "iconUrl": "/icons/jenkins.svg",
             "label": "Jenkins",
-            "url": ""
+            "url": "https://jenkins.dev.pincservices.de"
          },
          {
             "iconUrl": "/icons/sonarqube.svg",
             "label": "SonarQube",
-            "url": ""
+            "url": "https://sonarqube.dev.pincservices.de"
          },
          {
             "iconUrl": "/icons/jfrog.svg",
             "label": "Artifactory",
-            "url": ""
+            "url": "https://artifactory.dev.pincservices.de"
          }
       ]
    },
@@ -89,12 +89,12 @@
          {
             "iconUrl": "/icons/icons8/grafana.svg",
             "label": "Grafana",
-            "url": ""
+            "url": "https://grafana.pincservices.de"
          },
          {
             "iconUrl": "/icons/icons8/prometheus.svg",
             "label": "Prometheus",
-            "url": ""
+            "url": "https://prometheus.pincservices.de"
          }
       ]
    }
